@@ -1,0 +1,801 @@
+Project,Client,Description,Task,User,Group,Email,Tags,Billable,Start Date,Start Time,End Date,End Time,Duration (h),Duration (decimal),Billable Rate (USD),Billable Amount (USD)
+Seer Internal,Seer Interactive [1],1:1 - neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/12/2024,11:49 AM,07/12/2024,12:36 PM,0:47,0.78,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - David A,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/12/2024,11:01 AM,07/12/2024,11:49 AM,0:48,0.80,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Feedback,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/12/2024,10:53 AM,07/12/2024,11:00 AM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/12/2024,10:51 AM,07/12/2024,10:54 AM,0:03,0.05,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - emily a,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/12/2024,9:45 AM,07/12/2024,10:45 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],neal - standup,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/12/2024,9:00 AM,07/12/2024,9:45 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/11/2024,3:30 PM,07/11/2024,4:30 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/11/2024,2:00 PM,07/11/2024,3:30 PM,1:30,1.50,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,meetings,No,07/11/2024,12:00 PM,07/11/2024,2:00 PM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/11/2024,10:00 AM,07/11/2024,12:00 PM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/11/2024,8:00 AM,07/11/2024,10:00 AM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/10/2024,9:46 PM,07/10/2024,10:12 PM,0:26,0.43,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/10/2024,9:37 PM,07/10/2024,9:47 PM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/10/2024,9:01 PM,07/10/2024,9:37 PM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,07/10/2024,8:31 PM,07/10/2024,9:02 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/10/2024,8:31 PM,07/10/2024,8:32 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,07/10/2024,8:30 AM,07/10/2024,6:00 PM,9:30,9.50,0.00,0.00
+Seer Internal,Seer Interactive [1],fyf - jacob meeting w/ Chris E and Teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/09/2024,4:00 PM,07/09/2024,8:00 PM,4:00,4.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,07/09/2024,10:21 AM,07/09/2024,11:59 AM,1:38,1.63,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - metrics,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/09/2024,10:13 AM,07/09/2024,10:22 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/09/2024,5:30 AM,07/09/2024,6:14 AM,0:44,0.73,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Vapi,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/09/2024,5:04 AM,07/09/2024,5:29 AM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,07/09/2024,4:33 AM,07/09/2024,5:04 AM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],fyf - hot day beers,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/08/2024,4:40 PM,07/08/2024,6:00 PM,1:20,1.33,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - john,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/08/2024,4:03 PM,07/08/2024,4:40 PM,0:37,0.62,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/08/2024,2:55 PM,07/08/2024,4:03 PM,1:08,1.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,07/08/2024,2:24 PM,07/08/2024,2:55 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,07/08/2024,2:00 PM,07/08/2024,2:24 PM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],fyf,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/08/2024,1:09 PM,07/08/2024,1:59 PM,0:50,0.83,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,07/08/2024,11:26 AM,07/08/2024,1:10 PM,1:44,1.73,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/08/2024,11:11 AM,07/08/2024,11:26 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Trey J,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/08/2024,10:03 AM,07/08/2024,10:33 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/08/2024,9:30 AM,07/08/2024,10:03 AM,0:33,0.55,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,07/08/2024,9:03 AM,07/08/2024,9:18 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/08/2024,8:51 AM,07/08/2024,9:04 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Feedback,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/06/2024,11:07 AM,07/06/2024,12:29 PM,1:22,1.37,0.00,0.00
+Seer Internal,Seer Interactive [1],fyf,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/06/2024,10:59 AM,07/06/2024,11:07 AM,0:08,0.13,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/05/2024,6:02 PM,07/05/2024,6:18 PM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/05/2024,5:51 PM,07/05/2024,6:03 PM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],fyf,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/05/2024,4:18 PM,07/05/2024,5:35 PM,1:17,1.28,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/05/2024,3:30 PM,07/05/2024,4:14 PM,0:44,0.73,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Vapi,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/05/2024,3:05 PM,07/05/2024,3:29 PM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - alex,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/05/2024,2:35 PM,07/05/2024,3:05 PM,0:30,0.50,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Walkthrough,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/05/2024,2:03 PM,07/05/2024,2:34 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/05/2024,1:41 PM,07/05/2024,2:02 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/05/2024,11:49 AM,07/05/2024,1:41 PM,1:52,1.87,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/05/2024,9:57 AM,07/05/2024,10:05 AM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - maicon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/05/2024,9:25 AM,07/05/2024,9:58 AM,0:33,0.55,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/05/2024,9:06 AM,07/05/2024,9:25 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/04/2024,8:00 PM,07/04/2024,8:30 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/04/2024,6:00 PM,07/04/2024,8:00 PM,2:00,2.00,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/04/2024,1:00 PM,07/04/2024,4:00 PM,3:00,3.00,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,07/04/2024,10:55 AM,07/04/2024,12:06 PM,1:11,1.18,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/03/2024,5:00 PM,07/03/2024,6:15 PM,1:15,1.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - maicon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/03/2024,2:51 PM,07/03/2024,4:59 PM,2:08,2.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Podcast,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/03/2024,1:00 PM,07/03/2024,2:52 PM,1:52,1.87,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/03/2024,11:21 AM,07/03/2024,11:42 AM,0:21,0.35,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,07/03/2024,10:25 AM,07/03/2024,11:17 AM,0:52,0.87,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Recruiting,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/03/2024,10:15 AM,07/03/2024,10:25 AM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops - video,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,07/03/2024,9:16 AM,07/03/2024,9:56 AM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],neal - standup,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/03/2024,8:45 AM,07/03/2024,9:15 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - FSS,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,07/01/2024,5:59 PM,07/01/2024,6:22 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/01/2024,5:47 PM,07/01/2024,6:00 PM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Social,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/01/2024,5:26 PM,07/01/2024,5:47 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/01/2024,5:02 PM,07/01/2024,5:27 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,07/01/2024,3:00 PM,07/01/2024,5:01 PM,2:01,2.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - maicon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/01/2024,2:01 PM,07/01/2024,2:15 PM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Onboarding,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,07/01/2024,1:00 PM,07/01/2024,2:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - maicon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/01/2024,12:52 PM,07/01/2024,12:59 PM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/01/2024,11:58 AM,07/01/2024,12:22 PM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research - rob harr,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,07/01/2024,11:30 AM,07/01/2024,11:54 AM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Page up for Joanna,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/01/2024,10:37 AM,07/01/2024,11:29 AM,0:52,0.87,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/01/2024,9:13 AM,07/01/2024,10:37 AM,1:24,1.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - metrics,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,07/01/2024,8:54 AM,07/01/2024,9:13 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],neal - standup,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,07/01/2024,8:31 AM,07/01/2024,8:54 AM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,07/01/2024,8:23 AM,07/01/2024,8:32 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach (Banking follow up),Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/28/2024,4:40 PM,06/28/2024,4:53 PM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach (Top lost deals),Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/28/2024,3:16 PM,06/28/2024,4:40 PM,1:24,1.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - partnership - sparktoro,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/28/2024,2:15 PM,06/28/2024,3:14 PM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/28/2024,1:00 PM,06/28/2024,2:15 PM,1:15,1.25,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,meetings,No,06/28/2024,12:33 PM,06/28/2024,12:59 PM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach (Top lost deals),Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/28/2024,11:55 AM,06/28/2024,12:34 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/28/2024,11:29 AM,06/28/2024,11:56 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/28/2024,9:30 AM,06/28/2024,11:30 AM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,06/27/2024,4:19 PM,06/27/2024,6:09 PM,1:50,1.83,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach (Top lost deals),Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/27/2024,2:06 PM,06/27/2024,4:20 PM,2:14,2.23,0.00,0.00
+Seer Internal,Seer Interactive [1],all hands,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,All-Hands,No,06/27/2024,1:44 PM,06/27/2024,2:06 PM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Outreach (Top lost deals),Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/27/2024,10:34 AM,06/27/2024,1:38 PM,3:04,3.07,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,06/27/2024,10:09 AM,06/27/2024,10:28 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/26/2024,4:45 PM,06/26/2024,5:44 PM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,06/26/2024,4:25 PM,06/26/2024,4:45 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/26/2024,3:32 PM,06/26/2024,4:25 PM,0:53,0.88,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/26/2024,3:02 PM,06/26/2024,3:32 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - supernova - process,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/26/2024,2:20 PM,06/26/2024,2:53 PM,0:33,0.55,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,06/26/2024,1:45 PM,06/26/2024,2:20 PM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/26/2024,1:41 PM,06/26/2024,1:45 PM,0:04,0.07,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - sync,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/26/2024,1:23 PM,06/26/2024,1:42 PM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,06/26/2024,10:30 AM,06/26/2024,1:12 PM,2:42,2.70,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - metrics,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/26/2024,10:18 AM,06/26/2024,10:31 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/25/2024,11:53 AM,06/25/2024,1:59 PM,2:06,2.10,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Meeting w/ Scott,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/25/2024,11:00 AM,06/25/2024,11:45 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - steve k,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/25/2024,10:30 AM,06/25/2024,10:59 AM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,06/25/2024,9:41 AM,06/25/2024,10:29 AM,0:48,0.80,0.00,0.00
+Seer Internal,Seer Interactive [1],Clay research,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Sales,No,06/24/2024,4:40 PM,06/24/2024,5:59 PM,1:19,1.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog writing using Vapi PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/24/2024,3:56 PM,06/24/2024,4:39 PM,0:43,0.72,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/24/2024,2:06 PM,06/24/2024,3:57 PM,1:51,1.85,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Social,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/24/2024,12:35 PM,06/24/2024,2:05 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Social,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/24/2024,11:00 AM,06/24/2024,12:10 PM,1:10,1.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/24/2024,10:15 AM,06/24/2024,11:00 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/24/2024,9:30 AM,06/24/2024,10:15 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/24/2024,8:36 AM,06/24/2024,9:29 AM,0:53,0.88,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/13/2024,3:32 PM,06/24/2024,8:35 AM,257:03,257.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/12/2024,3:57 PM,06/13/2024,3:33 PM,23:36,23.60,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/12/2024,3:34 PM,06/12/2024,3:57 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/11/2024,4:39 PM,06/12/2024,3:35 PM,22:56,22.93,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Allianz,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,06/11/2024,2:56 PM,06/11/2024,4:40 PM,1:44,1.73,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - MN search,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/10/2024,3:13 PM,06/10/2024,5:08 PM,1:55,1.92,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/10/2024,3:13 PM,06/10/2024,3:14 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/10/2024,2:03 PM,06/10/2024,3:14 PM,1:11,1.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - MN search,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/10/2024,11:41 AM,06/10/2024,2:03 PM,2:22,2.37,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Recruiting - Feedback,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,06/10/2024,10:12 AM,06/10/2024,11:41 AM,1:29,1.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/10/2024,9:31 AM,06/10/2024,10:12 AM,0:41,0.68,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Steve Grandizio,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/10/2024,9:31 AM,06/10/2024,9:32 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/08/2024,1:24 AM,06/08/2024,1:59 AM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/07/2024,11:29 PM,06/08/2024,1:24 AM,1:55,1.92,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,06/07/2024,11:01 PM,06/07/2024,11:29 PM,0:28,0.47,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/07/2024,10:55 PM,06/07/2024,11:02 PM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/07/2024,6:27 PM,06/07/2024,7:35 PM,1:08,1.13,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - feedback,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/07/2024,5:20 PM,06/07/2024,6:08 PM,0:48,0.80,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Motus,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,06/07/2024,5:08 PM,06/07/2024,5:19 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - feedback,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/07/2024,4:52 PM,06/07/2024,5:08 PM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/07/2024,4:09 PM,06/07/2024,4:53 PM,0:44,0.73,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,06/07/2024,3:04 PM,06/07/2024,4:01 PM,0:57,0.95,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - partnership - sparktoro,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,06/07/2024,12:52 PM,06/07/2024,3:05 PM,2:13,2.22,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - supernova - Truefire,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,06/07/2024,12:00 PM,06/07/2024,12:52 PM,0:52,0.87,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/07/2024,11:00 AM,06/07/2024,12:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,06/07/2024,10:02 AM,06/07/2024,10:58 AM,0:56,0.93,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,06/07/2024,9:09 AM,06/07/2024,9:59 AM,0:50,0.83,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/31/2024,1:24 PM,06/07/2024,9:09 AM,163:45,163.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/31/2024,12:02 PM,05/31/2024,1:24 PM,1:22,1.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/31/2024,9:00 AM,05/31/2024,12:03 PM,3:03,3.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/30/2024,1:44 PM,05/30/2024,5:31 PM,3:47,3.78,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/29/2024,5:01 AM,05/29/2024,5:33 AM,0:32,0.53,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Latham,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,05/29/2024,4:36 AM,05/29/2024,5:01 AM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog (Chris B),,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/29/2024,4:05 AM,05/29/2024,4:36 AM,0:31,0.52,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation + AI - Vapi,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/29/2024,3:50 AM,05/29/2024,4:05 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/29/2024,3:43 AM,05/29/2024,3:50 AM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/28/2024,8:46 AM,05/29/2024,3:44 AM,18:58,18.97,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,05/24/2024,11:34 AM,05/24/2024,12:23 PM,0:49,0.82,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/24/2024,9:55 AM,05/24/2024,9:56 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/21/2024,7:00 PM,05/21/2024,7:23 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - financial brand,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/21/2024,8:56 AM,05/21/2024,7:01 PM,10:05,10.08,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - introductions,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/20/2024,3:49 PM,05/20/2024,4:51 PM,1:02,1.03,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - financial brand,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/20/2024,11:41 AM,05/20/2024,3:49 PM,4:08,4.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Meeting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/20/2024,9:32 AM,05/20/2024,10:05 AM,0:33,0.55,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Recruiting,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,05/20/2024,8:23 AM,05/20/2024,8:55 AM,0:32,0.53,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/19/2024,1:00 PM,05/19/2024,2:45 PM,1:45,1.75,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - supernova - ecoatm,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,05/17/2024,3:10 PM,05/17/2024,5:01 PM,1:51,1.85,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/17/2024,12:33 PM,05/17/2024,2:00 PM,1:27,1.45,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Recruiting,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,05/17/2024,11:29 AM,05/17/2024,12:33 PM,1:04,1.07,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/17/2024,10:34 AM,05/17/2024,10:42 AM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/17/2024,9:13 AM,05/17/2024,10:12 AM,0:59,0.98,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation - ChatGPT custom GPT for wil,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/17/2024,9:02 AM,05/17/2024,9:14 AM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - metrics,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/17/2024,8:33 AM,05/17/2024,8:42 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - what I;m proud of,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/17/2024,8:28 AM,05/17/2024,8:33 AM,0:05,0.08,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - metrics,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/17/2024,8:19 AM,05/17/2024,8:28 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/17/2024,8:00 AM,05/17/2024,8:19 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,05/16/2024,6:34 PM,05/16/2024,6:35 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - drew,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,05/16/2024,4:00 PM,05/16/2024,5:30 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - AI group,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/16/2024,2:00 PM,05/16/2024,4:10 PM,2:10,2.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,05/16/2024,1:00 PM,05/16/2024,2:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Video,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/16/2024,11:15 AM,05/16/2024,1:00 PM,1:45,1.75,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Jamie B,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/16/2024,10:43 AM,05/16/2024,11:14 AM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,05/16/2024,9:00 AM,05/16/2024,10:44 AM,1:44,1.73,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Hopeworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/15/2024,2:50 PM,05/15/2024,6:00 PM,3:10,3.17,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation - ChatGPT custom GPT for wil,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/15/2024,2:03 PM,05/15/2024,2:39 PM,0:36,0.60,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/15/2024,12:06 PM,05/15/2024,2:04 PM,1:58,1.97,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Innovation - ChatGPT custom GPT for wil,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/15/2024,11:49 AM,05/15/2024,12:06 PM,0:17,0.28,0.00,0.00
+1:1,,skip level - jason,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,,Yes,05/15/2024,11:05 AM,05/15/2024,11:41 AM,0:36,0.60,350.00,210.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/15/2024,8:26 AM,05/15/2024,11:04 AM,2:38,2.63,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - metrics,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/15/2024,7:42 AM,05/15/2024,8:26 AM,0:44,0.73,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - financial brand,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/14/2024,12:38 PM,05/15/2024,7:43 AM,19:05,19.08,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - website,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/13/2024,4:23 PM,05/13/2024,5:59 PM,1:36,1.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - website,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/13/2024,2:31 PM,05/13/2024,2:52 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,05/13/2024,1:32 PM,05/13/2024,2:31 PM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/13/2024,12:02 PM,05/13/2024,12:19 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - introductions,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/13/2024,11:37 AM,05/13/2024,12:02 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/13/2024,10:58 AM,05/13/2024,11:38 AM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/13/2024,9:39 AM,05/13/2024,10:49 AM,1:10,1.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/12/2024,12:30 PM,05/12/2024,4:00 PM,3:30,3.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/09/2024,1:08 PM,05/09/2024,4:59 PM,3:51,3.85,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,05/09/2024,1:05 PM,05/09/2024,1:09 PM,0:04,0.07,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/09/2024,12:06 PM,05/09/2024,1:06 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,05/09/2024,12:05 PM,05/09/2024,12:06 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,05/09/2024,12:05 PM,05/09/2024,12:06 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/08/2024,4:02 PM,05/08/2024,5:30 PM,1:28,1.47,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - webinar,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/08/2024,2:57 PM,05/08/2024,4:02 PM,1:05,1.08,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/08/2024,2:00 PM,05/08/2024,3:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - jubb,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/08/2024,1:30 PM,05/08/2024,2:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - website - supernova,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/08/2024,12:31 PM,05/08/2024,1:29 PM,0:58,0.97,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - webinar,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/08/2024,10:19 AM,05/08/2024,12:01 PM,1:42,1.70,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Matt Cabrey,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/08/2024,10:15 AM,05/08/2024,10:16 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/08/2024,8:57 AM,05/08/2024,10:14 AM,1:17,1.28,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - content production AI,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/08/2024,8:42 AM,05/08/2024,8:58 AM,0:16,0.27,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation + AI,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/08/2024,8:30 AM,05/08/2024,8:42 AM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - webinar,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/07/2024,3:21 PM,05/07/2024,5:55 PM,2:34,2.57,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,05/07/2024,11:23 AM,05/07/2024,3:21 PM,3:58,3.97,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/07/2024,8:00 AM,05/07/2024,11:23 AM,3:23,3.38,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/06/2024,6:00 PM,05/06/2024,7:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - webinar,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/06/2024,3:00 PM,05/06/2024,6:00 PM,3:00,3.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - Podcast,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/06/2024,1:36 PM,05/06/2024,2:20 PM,0:44,0.73,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Weather Channel,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,05/06/2024,1:12 PM,05/06/2024,1:36 PM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - webinar,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/06/2024,12:09 PM,05/06/2024,1:13 PM,1:04,1.07,0.00,0.00
+Seer Internal,Seer Interactive [1],Seer - webinar,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/06/2024,10:04 AM,05/06/2024,12:09 PM,2:05,2.08,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/06/2024,8:55 AM,05/06/2024,10:04 AM,1:09,1.15,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/04/2024,2:42 PM,05/04/2024,9:11 PM,6:29,6.48,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/03/2024,1:52 PM,05/03/2024,4:52 PM,3:00,3.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - website,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/03/2024,12:47 PM,05/03/2024,1:53 PM,1:06,1.10,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/03/2024,12:11 PM,05/03/2024,12:47 PM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Recruiting,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,People Ops,No,05/03/2024,11:43 AM,05/03/2024,12:12 PM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Rob Harr,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/03/2024,10:30 AM,05/03/2024,11:43 AM,1:13,1.22,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/03/2024,10:00 AM,05/03/2024,10:30 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - sandi,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/03/2024,7:30 AM,05/03/2024,10:00 AM,2:30,2.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Moz,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/02/2024,3:41 PM,05/02/2024,4:18 PM,0:37,0.62,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - GE,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,05/02/2024,2:30 PM,05/02/2024,3:41 PM,1:11,1.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,05/02/2024,2:19 PM,05/02/2024,2:29 PM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Hopeworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,05/02/2024,1:02 PM,05/02/2024,2:20 PM,1:18,1.30,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - employee anniversary,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,05/02/2024,12:00 PM,05/02/2024,12:41 PM,0:41,0.68,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation + AI,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,05/02/2024,10:38 AM,05/02/2024,11:47 AM,1:09,1.15,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,05/02/2024,8:27 AM,05/02/2024,10:36 AM,2:09,2.15,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/26/2024,10:07 AM,04/26/2024,11:27 AM,1:20,1.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/26/2024,9:15 AM,04/26/2024,10:07 AM,0:52,0.87,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - content production AI,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/25/2024,12:37 PM,04/26/2024,9:16 AM,20:39,20.65,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - coffee roulette,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/25/2024,12:36 PM,04/25/2024,12:36 PM,0:00,0.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Mama's Kitchen,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/24/2024,12:00 PM,04/24/2024,3:00 PM,3:00,3.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - mozcon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/22/2024,10:28 AM,04/22/2024,11:44 AM,1:16,1.27,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - what I;m proud of,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/22/2024,10:15 AM,04/22/2024,10:28 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/22/2024,9:43 AM,04/22/2024,10:09 AM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - financial brand,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/19/2024,2:38 PM,04/19/2024,5:15 PM,2:37,2.62,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/19/2024,2:00 PM,04/19/2024,2:38 PM,0:38,0.63,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/19/2024,1:40 PM,04/19/2024,1:59 PM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Moz,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/19/2024,8:00 AM,04/19/2024,11:01 AM,3:01,3.02,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/18/2024,5:21 PM,04/19/2024,8:00 AM,14:39,14.65,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/17/2024,5:26 PM,04/17/2024,5:59 PM,0:33,0.55,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Linkedin Pulse,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/17/2024,5:14 PM,04/17/2024,5:27 PM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/17/2024,1:28 PM,04/17/2024,1:59 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/17/2024,12:44 PM,04/17/2024,1:27 PM,0:43,0.72,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/17/2024,12:37 PM,04/17/2024,12:45 PM,0:08,0.13,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - SEO,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/17/2024,10:35 AM,04/17/2024,11:03 AM,0:28,0.47,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/17/2024,10:15 AM,04/17/2024,10:36 AM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Travelers,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/17/2024,9:30 AM,04/17/2024,10:15 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/17/2024,8:30 AM,04/17/2024,9:30 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Sales - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/16/2024,4:06 PM,04/16/2024,4:51 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - preso - financial brand,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/16/2024,10:37 AM,04/16/2024,4:06 PM,5:29,5.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - ANA (John),,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/16/2024,9:55 AM,04/16/2024,10:34 AM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/16/2024,9:50 AM,04/16/2024,9:56 AM,0:06,0.10,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - email send,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/15/2024,4:26 PM,04/16/2024,9:50 AM,17:24,17.40,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/15/2024,4:14 PM,04/15/2024,4:26 PM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/15/2024,3:02 PM,04/15/2024,4:10 PM,1:08,1.13,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Linkedin Pulse,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/15/2024,2:52 PM,04/15/2024,3:03 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Alex & Dan,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/15/2024,12:00 PM,04/15/2024,2:50 PM,2:50,2.83,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - CCP,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/15/2024,10:59 AM,04/15/2024,11:29 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/15/2024,10:21 AM,04/15/2024,11:00 AM,0:39,0.65,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/15/2024,9:56 AM,04/15/2024,10:09 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/15/2024,9:25 AM,04/15/2024,9:56 AM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/15/2024,8:40 AM,04/15/2024,9:26 AM,0:46,0.77,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Hopeworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/13/2024,2:30 PM,04/13/2024,6:30 PM,4:00,4.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/12/2024,3:24 PM,04/12/2024,3:51 PM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/12/2024,2:53 PM,04/12/2024,3:25 PM,0:32,0.53,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - SEO RFP - promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/12/2024,9:58 AM,04/12/2024,2:53 PM,4:55,4.92,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Financial Brand,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/11/2024,3:54 PM,04/11/2024,4:17 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/11/2024,12:22 PM,04/11/2024,1:08 PM,0:46,0.77,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,04/11/2024,12:16 PM,04/11/2024,12:22 PM,0:06,0.10,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - HR Acquity,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/11/2024,11:16 AM,04/11/2024,12:17 PM,1:01,1.02,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/11/2024,10:30 AM,04/11/2024,11:16 AM,0:46,0.77,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Akron food bank,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/10/2024,12:00 PM,04/10/2024,2:30 PM,2:30,2.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/09/2024,1:37 PM,04/11/2024,11:16 AM,45:39,45.65,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/09/2024,1:36 PM,04/09/2024,1:37 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/09/2024,1:11 PM,04/09/2024,1:33 PM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/09/2024,1:00 PM,04/09/2024,1:11 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Neal - 1:1,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,04/09/2024,12:45 PM,04/09/2024,12:59 PM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,04/09/2024,12:00 PM,04/09/2024,12:45 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Jordan,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/09/2024,10:00 AM,04/09/2024,11:00 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - social,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/09/2024,9:00 AM,04/09/2024,10:00 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - call,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/09/2024,8:30 AM,04/09/2024,9:00 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/08/2024,9:30 PM,04/08/2024,10:57 PM,1:27,1.45,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/08/2024,5:22 PM,04/08/2024,6:03 PM,0:41,0.68,0.00,0.00
+Seer Internal,Seer Interactive [1],Small improvements feedback,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,04/08/2024,4:54 PM,04/08/2024,5:22 PM,0:28,0.47,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/08/2024,4:29 PM,04/08/2024,4:52 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Larry,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/08/2024,4:03 PM,04/08/2024,4:30 PM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/08/2024,3:44 PM,04/08/2024,4:04 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,04/08/2024,2:13 PM,04/08/2024,3:43 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/08/2024,11:42 AM,04/08/2024,1:31 PM,1:49,1.82,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Linkedin Pulse,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/08/2024,10:06 AM,04/08/2024,11:37 AM,1:31,1.52,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/08/2024,9:30 AM,04/08/2024,10:06 AM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/05/2024,4:42 PM,04/05/2024,4:58 PM,0:16,0.27,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - content production AI,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/05/2024,4:25 PM,04/05/2024,4:42 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/05/2024,4:05 PM,04/05/2024,4:26 PM,0:21,0.35,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/05/2024,4:02 PM,04/05/2024,4:05 PM,0:03,0.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - social,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/05/2024,3:25 PM,04/05/2024,4:03 PM,0:38,0.63,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/05/2024,3:24 PM,04/05/2024,3:25 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - greenworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/05/2024,2:23 PM,04/05/2024,3:08 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Neal - Training,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,04/05/2024,1:55 PM,04/05/2024,2:20 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/05/2024,1:30 PM,04/05/2024,1:55 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/05/2024,1:21 PM,04/05/2024,1:29 PM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - SEO RFP - w/ chase,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/05/2024,12:20 PM,04/05/2024,1:10 PM,0:50,0.83,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot - email send,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/05/2024,11:00 AM,04/05/2024,12:20 PM,1:20,1.33,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Costs for fivetran chat with ethan & CB,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/05/2024,10:30 AM,04/05/2024,11:00 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/05/2024,10:15 AM,04/05/2024,10:30 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,04/05/2024,9:30 AM,04/05/2024,10:15 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/05/2024,9:06 AM,04/05/2024,9:29 AM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/05/2024,8:16 AM,04/05/2024,9:03 AM,0:47,0.78,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT cs Claude,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/05/2024,7:55 AM,04/05/2024,8:17 AM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Neal - Training,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,04/05/2024,7:48 AM,04/05/2024,7:55 AM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Hopeworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/04/2024,7:00 PM,04/04/2024,9:31 PM,2:31,2.52,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Jeff,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/04/2024,4:00 PM,04/04/2024,5:30 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Hopeworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/04/2024,2:00 PM,04/04/2024,4:00 PM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,04/04/2024,1:18 PM,04/04/2024,1:59 PM,0:41,0.68,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/04/2024,11:57 AM,04/04/2024,1:00 PM,1:03,1.05,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/04/2024,11:32 AM,04/04/2024,11:57 AM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/04/2024,9:45 AM,04/04/2024,11:32 AM,1:47,1.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - KPIs - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/04/2024,9:25 AM,04/04/2024,9:43 AM,0:18,0.30,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/04/2024,8:40 AM,04/04/2024,9:25 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Alumni,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/04/2024,8:00 AM,04/04/2024,8:40 AM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Neal - Training,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,04/04/2024,7:37 AM,04/04/2024,7:59 AM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Ethan,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/03/2024,4:30 PM,04/03/2024,6:06 PM,1:36,1.60,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/03/2024,4:07 PM,04/03/2024,6:05 PM,1:58,1.97,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/03/2024,3:19 PM,04/03/2024,4:08 PM,0:49,0.82,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Constellation,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/03/2024,1:30 PM,04/03/2024,2:50 PM,1:20,1.33,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Drew,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,04/03/2024,12:30 PM,04/03/2024,1:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/03/2024,10:24 AM,04/03/2024,12:15 PM,1:51,1.85,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,04/03/2024,9:57 AM,04/03/2024,10:24 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/03/2024,9:49 AM,04/03/2024,9:57 AM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Constellation,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/03/2024,9:21 AM,04/03/2024,9:41 AM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - hubspot,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/03/2024,9:12 AM,04/03/2024,9:22 AM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,04/03/2024,8:51 AM,04/03/2024,9:12 AM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/03/2024,8:50 AM,04/03/2024,8:52 AM,0:02,0.03,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - hang out with team other half,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,04/02/2024,5:10 PM,04/02/2024,6:30 PM,1:20,1.33,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,04/02/2024,3:30 PM,04/02/2024,4:10 PM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Dennis Kirk,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/02/2024,3:05 PM,04/02/2024,3:30 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/02/2024,2:04 PM,04/02/2024,3:06 PM,1:02,1.03,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/02/2024,1:03 PM,04/02/2024,1:32 PM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Feedback for editor,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,04/02/2024,12:34 PM,04/02/2024,1:03 PM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,04/02/2024,11:55 AM,04/02/2024,12:34 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - greenworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,04/02/2024,11:28 AM,04/02/2024,11:55 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],SEO Biz Ideas for growth,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,MKTG - SEO,No,04/02/2024,10:38 AM,04/02/2024,11:29 AM,0:51,0.85,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales -Thompson windows,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,03/22/2024,3:31 PM,03/22/2024,4:53 PM,1:22,1.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - social,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/22/2024,2:54 PM,03/22/2024,3:31 PM,0:37,0.62,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/22/2024,10:30 AM,03/22/2024,10:31 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/21/2024,9:04 PM,03/21/2024,11:00 PM,1:56,1.93,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/21/2024,8:45 PM,03/21/2024,9:40 PM,0:55,0.92,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/21/2024,3:42 PM,03/21/2024,4:30 PM,0:48,0.80,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,03/21/2024,11:17 AM,03/21/2024,3:42 PM,4:25,4.42,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/20/2024,9:26 PM,03/20/2024,10:36 PM,1:10,1.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/20/2024,8:31 PM,03/20/2024,9:27 PM,0:56,0.93,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/20/2024,8:07 PM,03/20/2024,8:32 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - greenworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/20/2024,6:16 PM,03/20/2024,6:17 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/20/2024,4:30 PM,03/20/2024,6:18 PM,1:48,1.80,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,03/20/2024,3:30 PM,03/20/2024,4:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,03/20/2024,2:00 PM,03/20/2024,2:51 PM,0:51,0.85,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Rachel b,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/20/2024,12:16 PM,03/20/2024,2:00 PM,1:44,1.73,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Rachel b,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/20/2024,12:16 PM,03/20/2024,12:17 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - greenworks,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/20/2024,11:00 AM,03/20/2024,12:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/20/2024,9:19 AM,03/20/2024,11:00 AM,1:41,1.68,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,03/20/2024,9:10 AM,03/20/2024,9:19 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,03/20/2024,8:30 AM,03/20/2024,9:11 AM,0:41,0.68,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/20/2024,8:29 AM,03/20/2024,8:29 AM,0:00,0.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/19/2024,3:18 PM,03/19/2024,6:25 PM,3:07,3.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,03/19/2024,2:31 PM,03/19/2024,3:14 PM,0:43,0.72,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/19/2024,1:52 PM,03/19/2024,2:31 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Trex,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/19/2024,12:01 PM,03/19/2024,1:11 PM,1:10,1.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/19/2024,8:57 AM,03/19/2024,12:01 PM,3:04,3.07,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,03/18/2024,5:25 PM,03/18/2024,6:00 PM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Trex,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/18/2024,4:43 PM,03/18/2024,5:25 PM,0:42,0.70,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/18/2024,4:40 PM,03/18/2024,4:43 PM,0:03,0.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/18/2024,4:21 PM,03/18/2024,4:41 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/18/2024,3:41 PM,03/18/2024,4:21 PM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/18/2024,2:53 PM,03/18/2024,3:12 PM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/18/2024,11:55 AM,03/18/2024,1:59 PM,2:04,2.07,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/18/2024,9:44 AM,03/18/2024,11:40 AM,1:56,1.93,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,03/18/2024,8:44 AM,03/18/2024,9:44 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/18/2024,4:17 AM,03/18/2024,5:10 AM,0:53,0.88,0.00,0.00
+Seer Internal,Seer Interactive [1],Sales - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/18/2024,4:11 AM,03/18/2024,4:18 AM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/18/2024,3:48 AM,03/18/2024,4:11 AM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - AI survival kit - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/18/2024,2:00 AM,03/18/2024,2:45 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/15/2024,4:24 PM,03/15/2024,5:04 PM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - SEO RFP - promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/15/2024,3:41 PM,03/15/2024,4:24 PM,0:43,0.72,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/15/2024,1:19 PM,03/15/2024,3:40 PM,2:21,2.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - cuprap presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/15/2024,7:53 AM,03/15/2024,1:20 PM,5:27,5.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - cuprap presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/14/2024,11:00 PM,03/15/2024,2:00 AM,3:00,3.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - cuprap presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/14/2024,5:00 PM,03/14/2024,6:24 PM,1:24,1.40,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,03/14/2024,4:49 PM,03/14/2024,4:50 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/14/2024,3:30 PM,03/14/2024,4:49 PM,1:19,1.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Polywood,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/14/2024,1:58 PM,03/14/2024,3:30 PM,1:32,1.53,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - cuprap presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/14/2024,12:40 PM,03/14/2024,1:54 PM,1:14,1.23,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House - Board,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,03/14/2024,12:00 PM,03/14/2024,12:41 PM,0:41,0.68,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,03/14/2024,10:30 AM,03/14/2024,11:15 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,03/14/2024,9:00 AM,03/14/2024,10:30 AM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - john v,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/14/2024,8:00 AM,03/14/2024,8:45 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/13/2024,12:19 PM,03/13/2024,3:30 PM,3:11,3.18,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/13/2024,9:44 AM,03/13/2024,10:19 AM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - SEO RFP - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/13/2024,6:06 AM,03/13/2024,11:34 AM,5:28,5.47,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - hang out with team in munich,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/12/2024,6:00 PM,03/12/2024,10:00 PM,4:00,4.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - smx - networking & speaking,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/12/2024,10:00 AM,03/12/2024,6:00 PM,8:00,8.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - smx - networking & speaking,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/11/2024,5:00 PM,03/11/2024,8:30 PM,3:30,3.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/11/2024,12:42 PM,03/11/2024,1:18 PM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/11/2024,12:27 PM,03/11/2024,12:42 PM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,03/11/2024,10:02 AM,03/11/2024,12:28 PM,2:26,2.43,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - SEO RFP - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/11/2024,12:39 AM,03/11/2024,1:39 AM,1:00,1.00,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,03/11/2024,12:12 AM,03/11/2024,12:39 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/10/2024,8:07 PM,03/11/2024,1:00 AM,4:53,4.88,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/10/2024,8:05 PM,03/10/2024,8:07 PM,0:02,0.03,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - SEO RFP - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/10/2024,12:20 PM,03/10/2024,5:18 PM,4:58,4.97,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - smx,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/10/2024,12:19 PM,03/10/2024,12:20 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - smx,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/10/2024,10:00 AM,03/10/2024,12:21 PM,2:21,2.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/08/2024,2:05 PM,03/08/2024,4:52 PM,2:47,2.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - smx,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/08/2024,9:47 AM,03/08/2024,2:05 PM,4:18,4.30,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/07/2024,4:50 PM,03/07/2024,6:20 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - smx,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/07/2024,4:15 PM,03/07/2024,4:50 PM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,03/07/2024,3:55 PM,03/07/2024,4:15 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales -Thompson windows,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,03/07/2024,2:34 PM,03/07/2024,3:55 PM,1:21,1.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation AI and your agency,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/02/2024,3:04 PM,03/07/2024,2:34 PM,119:30,119.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation AI and your agency,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,03/01/2024,9:52 AM,03/01/2024,5:05 PM,7:13,7.22,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/29/2024,5:37 PM,02/29/2024,8:02 PM,2:25,2.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - chatgpt answers - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/29/2024,3:14 PM,02/29/2024,5:28 PM,2:14,2.23,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/29/2024,2:06 PM,02/29/2024,3:15 PM,1:09,1.15,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - personal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/29/2024,8:19 AM,02/29/2024,2:06 PM,5:47,5.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - personal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/28/2024,3:50 PM,02/29/2024,8:16 AM,16:26,16.43,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/28/2024,3:11 PM,02/28/2024,3:37 PM,0:26,0.43,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/28/2024,3:04 PM,02/28/2024,3:12 PM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/28/2024,1:08 PM,02/28/2024,3:04 PM,1:56,1.93,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/28/2024,12:07 PM,02/28/2024,1:08 PM,1:01,1.02,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/28/2024,11:05 AM,02/28/2024,12:06 PM,1:01,1.02,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales -Thompson windows,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/28/2024,10:00 AM,02/28/2024,11:05 AM,1:05,1.08,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/28/2024,9:01 AM,02/28/2024,10:00 AM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/28/2024,8:41 AM,02/28/2024,9:01 AM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Rand,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/28/2024,8:19 AM,02/28/2024,8:42 AM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales -Thompson windows,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/28/2024,7:54 AM,02/28/2024,8:20 AM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/28/2024,7:42 AM,02/28/2024,7:54 AM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales -Thompson windows,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/28/2024,5:30 AM,02/28/2024,5:53 AM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/27/2024,9:19 PM,02/27/2024,9:53 PM,0:34,0.57,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/27/2024,8:00 PM,02/27/2024,8:56 PM,0:56,0.93,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - hang out with innovation team,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/27/2024,4:44 PM,02/27/2024,5:20 PM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/27/2024,4:18 PM,02/27/2024,4:45 PM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/27/2024,3:34 PM,02/27/2024,4:18 PM,0:44,0.73,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/27/2024,2:07 PM,02/27/2024,3:34 PM,1:27,1.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/27/2024,11:20 AM,02/27/2024,2:07 PM,2:47,2.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation AI and your agency,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/27/2024,7:32 AM,02/27/2024,11:21 AM,3:49,3.82,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/27/2024,5:45 AM,02/27/2024,6:00 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/26/2024,6:00 PM,02/26/2024,6:20 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/26/2024,5:30 PM,02/26/2024,6:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales - tierney,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/26/2024,4:18 PM,02/26/2024,5:30 PM,1:12,1.20,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/26/2024,3:58 PM,02/26/2024,4:19 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Latham,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/26/2024,3:48 PM,02/26/2024,3:59 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/26/2024,3:16 PM,02/26/2024,3:42 PM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/26/2024,2:54 PM,02/26/2024,3:16 PM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/26/2024,1:10 PM,02/26/2024,2:49 PM,1:39,1.65,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation AI and your agency,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/26/2024,11:02 AM,02/26/2024,1:11 PM,2:09,2.15,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/26/2024,10:36 AM,02/26/2024,11:02 AM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales -Thompson windows,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/26/2024,9:04 AM,02/26/2024,10:37 AM,1:33,1.55,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/25/2024,12:26 PM,02/25/2024,1:04 PM,0:38,0.63,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,02/25/2024,12:10 PM,02/25/2024,12:27 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],AI POV,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/24/2024,3:46 PM,02/24/2024,7:29 PM,3:43,3.72,0.00,0.00
+Seer Internal,Seer Interactive [1],AI POV,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/24/2024,10:16 AM,02/24/2024,11:50 AM,1:34,1.57,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/23/2024,3:21 PM,02/23/2024,4:51 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/23/2024,3:02 PM,02/23/2024,3:21 PM,0:19,0.32,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/22/2024,10:30 PM,02/22/2024,11:26 PM,0:56,0.93,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,02/22/2024,4:40 PM,02/22/2024,5:15 PM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/22/2024,4:19 PM,02/22/2024,4:40 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/22/2024,2:19 PM,02/22/2024,3:32 PM,1:13,1.22,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales - tierney,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/22/2024,12:37 PM,02/22/2024,1:16 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/22/2024,12:23 PM,02/22/2024,12:37 PM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/21/2024,11:20 AM,02/21/2024,1:14 PM,1:54,1.90,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales - loreal,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/21/2024,11:06 AM,02/21/2024,11:24 AM,0:18,0.30,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,02/19/2024,12:00 PM,02/21/2024,11:06 AM,47:06,47.10,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,02/19/2024,11:41 AM,02/19/2024,12:01 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/19/2024,11:19 AM,02/19/2024,11:41 AM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/19/2024,10:52 AM,02/19/2024,11:19 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/19/2024,10:37 AM,02/19/2024,10:52 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Promotion - future of search,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/19/2024,10:37 AM,02/19/2024,12:00 PM,1:23,1.38,0.00,0.00
+Seer Internal,Seer Interactive [1],hours fix,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/19/2024,10:30 AM,02/19/2024,10:36 AM,0:06,0.10,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/16/2024,5:00 PM,02/16/2024,5:30 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Promotion - future of search,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/16/2024,3:45 PM,02/16/2024,5:00 PM,1:15,1.25,0.00,0.00
+Seer Internal,Seer Interactive [1],email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/16/2024,3:15 PM,02/16/2024,3:45 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - for AI blog - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/16/2024,11:05 AM,02/16/2024,3:16 PM,4:11,4.18,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Rob H,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/16/2024,10:02 AM,02/16/2024,11:05 AM,1:03,1.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/15/2024,4:00 PM,02/15/2024,5:53 PM,1:53,1.88,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/15/2024,3:13 PM,02/15/2024,3:43 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - AI,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/15/2024,2:13 PM,02/15/2024,3:13 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House - Board,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/15/2024,1:41 PM,02/15/2024,2:13 PM,0:32,0.53,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/15/2024,1:00 PM,02/15/2024,1:41 PM,0:41,0.68,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Trex,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/15/2024,11:30 AM,02/15/2024,1:00 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/15/2024,9:00 AM,02/15/2024,10:31 AM,1:31,1.52,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - phantombuster linkedin scrape,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/15/2024,4:27 AM,02/15/2024,5:26 AM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/15/2024,4:12 AM,02/15/2024,4:27 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,02/15/2024,4:04 AM,02/15/2024,4:12 AM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/15/2024,3:50 AM,02/15/2024,4:04 AM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/14/2024,5:14 PM,02/14/2024,5:42 PM,0:28,0.47,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/14/2024,4:55 PM,02/14/2024,5:14 PM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House - Board member chat,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/14/2024,11:23 AM,02/14/2024,1:00 PM,1:37,1.62,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/14/2024,11:00 AM,02/14/2024,11:24 AM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Motus,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/14/2024,10:00 AM,02/14/2024,11:00 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - CCP,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/14/2024,8:51 AM,02/14/2024,10:00 AM,1:09,1.15,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - personal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/14/2024,7:58 AM,02/14/2024,8:51 AM,0:53,0.88,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/13/2024,4:22 PM,02/13/2024,5:23 PM,1:01,1.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - client email,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/13/2024,3:40 PM,02/13/2024,4:22 PM,0:42,0.70,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/13/2024,3:06 PM,02/13/2024,3:40 PM,0:34,0.57,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/13/2024,2:03 PM,02/13/2024,3:06 PM,1:03,1.05,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,02/13/2024,1:06 PM,02/13/2024,1:57 PM,0:51,0.85,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/13/2024,12:58 PM,02/13/2024,1:06 PM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/13/2024,12:27 PM,02/13/2024,12:56 PM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Letter writing,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/13/2024,11:56 AM,02/13/2024,12:27 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - CCP,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/13/2024,10:30 AM,02/13/2024,11:15 AM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - sales - agency,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/13/2024,9:50 AM,02/13/2024,10:30 AM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/13/2024,8:53 AM,02/13/2024,9:50 AM,0:57,0.95,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/13/2024,8:17 AM,02/13/2024,8:53 AM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Levis - Supernova - Tech SEO - Facets,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/13/2024,7:45 AM,02/13/2024,8:12 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - for AI blog - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/12/2024,4:50 PM,02/12/2024,6:30 PM,1:40,1.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - ANA,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/12/2024,4:28 PM,02/12/2024,4:50 PM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/12/2024,2:00 PM,02/12/2024,4:28 PM,2:28,2.47,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops - Jeff chat,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,02/12/2024,1:20 PM,02/12/2024,2:00 PM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - CCP,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/12/2024,10:34 AM,02/12/2024,1:20 PM,2:46,2.77,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - for AI blog - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/12/2024,8:25 AM,02/12/2024,10:34 AM,2:09,2.15,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,02/09/2024,3:43 PM,02/09/2024,4:31 PM,0:48,0.80,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/09/2024,2:53 PM,02/09/2024,3:43 PM,0:50,0.83,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/09/2024,2:15 PM,02/09/2024,2:54 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/09/2024,1:04 PM,02/09/2024,2:06 PM,1:02,1.03,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/09/2024,12:24 PM,02/09/2024,1:04 PM,0:40,0.67,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/09/2024,11:52 AM,02/09/2024,12:24 PM,0:32,0.53,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/09/2024,10:31 AM,02/09/2024,11:53 AM,1:22,1.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/09/2024,9:54 AM,02/09/2024,10:29 AM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/09/2024,9:27 AM,02/09/2024,9:54 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/09/2024,8:58 AM,02/09/2024,9:27 AM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/08/2024,3:12 PM,02/08/2024,3:54 PM,0:42,0.70,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - PAR,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/08/2024,2:06 PM,02/08/2024,3:13 PM,1:07,1.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - dealers - formatting,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/08/2024,1:21 PM,02/08/2024,1:59 PM,0:38,0.63,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/08/2024,12:57 PM,02/08/2024,1:21 PM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Interview,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,02/08/2024,12:36 PM,02/08/2024,12:58 PM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - CCP,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,02/08/2024,9:31 AM,02/08/2024,9:32 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/07/2024,9:28 PM,02/07/2024,10:48 PM,1:20,1.33,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/07/2024,8:37 PM,02/07/2024,9:28 PM,0:51,0.85,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,02/07/2024,8:18 PM,02/07/2024,8:38 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/07/2024,7:33 PM,02/07/2024,8:18 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - hang out with paid team,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/07/2024,5:15 PM,02/07/2024,6:15 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/07/2024,4:00 PM,02/07/2024,5:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/07/2024,3:15 PM,02/07/2024,4:00 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/07/2024,2:32 PM,02/07/2024,3:15 PM,0:43,0.72,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,02/07/2024,2:05 PM,02/07/2024,2:32 PM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - dealers - writing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/07/2024,12:18 PM,02/07/2024,2:05 PM,1:47,1.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Levis - Supernova - Tech SEO - Facets,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/07/2024,9:45 AM,02/07/2024,11:47 AM,2:02,2.03,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Will C,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/07/2024,8:20 AM,02/07/2024,9:45 AM,1:25,1.42,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/06/2024,8:19 PM,02/06/2024,9:06 PM,0:47,0.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts - layoffs,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/06/2024,6:01 PM,02/06/2024,7:00 PM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/06/2024,4:30 PM,02/06/2024,5:30 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - luxone,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/06/2024,3:00 PM,02/06/2024,4:30 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - luxone,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/06/2024,12:49 PM,02/06/2024,1:10 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - John,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/06/2024,10:00 AM,02/06/2024,12:00 PM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - geoff d,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/06/2024,8:30 AM,02/06/2024,10:00 AM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/05/2024,11:12 PM,02/05/2024,11:24 PM,0:12,0.20,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - PDM,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/05/2024,11:01 PM,02/05/2024,11:12 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/05/2024,10:47 PM,02/05/2024,11:02 PM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/05/2024,10:26 PM,02/05/2024,10:47 PM,0:21,0.35,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - MSV,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/05/2024,9:30 PM,02/05/2024,10:26 PM,0:56,0.93,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Shopping - Alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/05/2024,9:22 PM,02/05/2024,9:30 PM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/05/2024,9:02 PM,02/05/2024,9:22 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts - contest,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/05/2024,8:46 PM,02/05/2024,9:02 PM,0:16,0.27,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/05/2024,8:33 PM,02/05/2024,8:47 PM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/05/2024,8:03 PM,02/05/2024,8:34 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/05/2024,7:51 PM,02/05/2024,8:03 PM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/05/2024,3:00 PM,02/05/2024,4:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/05/2024,2:24 PM,02/05/2024,3:00 PM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/05/2024,1:33 PM,02/05/2024,2:24 PM,0:51,0.85,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - website,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/05/2024,1:14 PM,02/05/2024,1:35 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - luxone,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/05/2024,11:28 AM,02/05/2024,1:15 PM,1:47,1.78,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation deck building - smx,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/05/2024,8:24 AM,02/05/2024,11:27 AM,3:03,3.05,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/02/2024,4:22 PM,02/02/2024,5:08 PM,0:46,0.77,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts - analytics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/02/2024,1:37 PM,02/02/2024,2:10 PM,0:33,0.55,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/02/2024,12:54 PM,02/02/2024,1:09 PM,0:15,0.25,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/02/2024,12:33 PM,02/02/2024,12:54 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/02/2024,12:23 PM,02/02/2024,12:34 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,02/02/2024,12:02 PM,02/02/2024,12:23 PM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/02/2024,11:30 AM,02/02/2024,12:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Jay Coen,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/02/2024,8:00 AM,02/02/2024,11:00 AM,3:00,3.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/01/2024,4:22 PM,02/01/2024,5:59 PM,1:37,1.62,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Content production,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/01/2024,3:59 PM,02/01/2024,4:22 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts - contest,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/01/2024,3:45 PM,02/01/2024,3:59 PM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/01/2024,3:28 PM,02/01/2024,3:45 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/01/2024,3:09 PM,02/01/2024,3:29 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Subaru,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/01/2024,11:17 AM,02/01/2024,3:09 PM,3:52,3.87,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Subaru,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,02/01/2024,10:28 AM,02/01/2024,11:17 AM,0:49,0.82,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Competitors,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,02/01/2024,10:02 AM,02/01/2024,10:29 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/01/2024,9:50 AM,02/01/2024,10:03 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/01/2024,9:35 AM,02/01/2024,9:50 AM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - outreach,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,02/01/2024,9:03 AM,02/01/2024,9:34 AM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - tierney,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/01/2024,7:52 AM,02/01/2024,8:55 AM,1:03,1.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/01/2024,7:43 AM,02/01/2024,7:54 AM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - website,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,02/01/2024,7:37 AM,02/01/2024,7:43 AM,0:06,0.10,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,02/01/2024,7:35 AM,02/01/2024,7:36 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/31/2024,4:06 PM,01/31/2024,6:00 PM,1:54,1.90,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - alignment,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/31/2024,3:33 PM,01/31/2024,4:06 PM,0:33,0.55,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/31/2024,2:10 PM,01/31/2024,3:34 PM,1:24,1.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - Presentation,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/31/2024,1:59 PM,01/31/2024,2:15 PM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/31/2024,12:54 PM,01/31/2024,1:55 PM,1:01,1.02,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/31/2024,12:24 PM,01/31/2024,12:54 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Subaru,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/31/2024,12:15 PM,01/31/2024,12:25 PM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/31/2024,11:43 AM,01/31/2024,12:15 PM,0:32,0.53,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/31/2024,10:00 AM,01/31/2024,10:50 AM,0:50,0.83,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/31/2024,9:00 AM,01/31/2024,10:00 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/31/2024,7:34 AM,01/31/2024,8:00 AM,0:26,0.43,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/30/2024,12:39 PM,01/30/2024,12:49 PM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/30/2024,12:05 PM,01/30/2024,12:39 PM,0:34,0.57,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Balsam,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/30/2024,11:42 AM,01/30/2024,12:05 PM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts - analytics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/30/2024,11:17 AM,01/30/2024,11:43 AM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/30/2024,10:54 AM,01/30/2024,11:16 AM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - outreach,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/30/2024,9:48 AM,01/30/2024,10:55 AM,1:07,1.12,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/30/2024,9:35 AM,01/30/2024,9:48 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - organic growth,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/29/2024,2:34 PM,01/29/2024,2:53 PM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/29/2024,2:27 PM,01/29/2024,2:34 PM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/29/2024,1:03 PM,01/29/2024,2:27 PM,1:24,1.40,0.00,0.00
+Seer Internal,Seer Interactive [1],wilr@seerinteractive.com,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/29/2024,11:42 AM,01/29/2024,1:03 PM,1:21,1.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/29/2024,11:13 AM,01/29/2024,11:43 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/29/2024,10:49 AM,01/29/2024,11:13 AM,0:24,0.40,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/29/2024,10:28 AM,01/29/2024,10:49 AM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Kensington Baseball league + prep for greenlight,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,01/29/2024,8:10 AM,01/29/2024,9:59 AM,1:49,1.82,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/28/2024,1:19 AM,01/28/2024,1:39 AM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - People STuff,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,01/28/2024,12:32 AM,01/28/2024,1:05 AM,0:33,0.55,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House - Board,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,01/28/2024,12:31 AM,01/28/2024,12:32 AM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House - Board,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,01/28/2024,12:15 AM,01/28/2024,12:31 AM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/27/2024,11:54 PM,01/28/2024,12:15 AM,0:21,0.35,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - website,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/27/2024,11:28 PM,01/27/2024,11:55 PM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/27/2024,10:21 PM,01/27/2024,11:16 PM,0:55,0.92,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/27/2024,10:20 PM,01/27/2024,10:21 PM,0:01,0.02,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/27/2024,10:58 AM,01/27/2024,12:00 PM,1:02,1.03,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - outreach,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/27/2024,10:35 AM,01/27/2024,10:54 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - People STuff,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Team Feedback,No,01/27/2024,10:09 AM,01/27/2024,10:35 AM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - organic growth,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/27/2024,9:43 AM,01/27/2024,10:09 AM,0:26,0.43,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/26/2024,5:00 PM,01/26/2024,6:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - People STuff,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,"Training, People Ops",No,01/26/2024,3:30 PM,01/26/2024,4:30 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Neal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/26/2024,2:15 PM,01/26/2024,2:45 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/26/2024,1:25 PM,01/26/2024,2:00 PM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/26/2024,1:19 PM,01/26/2024,1:25 PM,0:06,0.10,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - Presentation,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/26/2024,12:06 PM,01/26/2024,1:21 PM,1:15,1.25,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level -nick,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/26/2024,11:00 AM,01/26/2024,12:06 PM,1:06,1.10,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/26/2024,10:09 AM,01/26/2024,10:58 AM,0:49,0.82,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - supernova - salomon,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/26/2024,9:34 AM,01/26/2024,10:11 AM,0:37,0.62,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - propel,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/26/2024,9:00 AM,01/26/2024,9:34 AM,0:34,0.57,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/26/2024,8:18 AM,01/26/2024,8:48 AM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/26/2024,8:07 AM,01/26/2024,8:19 AM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/26/2024,7:42 AM,01/26/2024,8:07 AM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/26/2024,7:39 AM,01/26/2024,7:43 AM,0:04,0.07,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/25/2024,5:15 PM,01/25/2024,6:15 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/25/2024,4:30 PM,01/25/2024,5:15 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/25/2024,3:18 PM,01/25/2024,4:30 PM,1:12,1.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - posts,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/25/2024,3:01 PM,01/25/2024,3:18 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops - all hands prep,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/25/2024,12:58 PM,01/25/2024,3:01 PM,2:03,2.05,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/25/2024,12:30 PM,01/25/2024,12:58 PM,0:28,0.47,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Latham,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/25/2024,12:22 PM,01/25/2024,12:31 PM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/25/2024,10:32 AM,01/25/2024,12:23 PM,1:51,1.85,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Junior Achievement,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,01/25/2024,10:00 AM,01/25/2024,11:15 AM,1:15,1.25,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/25/2024,9:00 AM,01/25/2024,10:00 AM,1:00,1.00,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - MSV,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/24/2024,4:56 PM,01/24/2024,4:57 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - Teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/24/2024,4:49 PM,01/24/2024,4:50 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - Presentation,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/24/2024,1:18 PM,01/24/2024,4:49 PM,3:31,3.52,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/24/2024,12:32 PM,01/24/2024,12:59 PM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/24/2024,12:17 PM,01/24/2024,12:33 PM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/24/2024,11:52 AM,01/24/2024,12:07 PM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Supernova Loreal,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/24/2024,10:40 AM,01/24/2024,11:53 AM,1:13,1.22,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Latham,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/24/2024,10:21 AM,01/24/2024,10:40 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/24/2024,10:04 AM,01/24/2024,10:22 AM,0:18,0.30,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Supernova Loreal,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/24/2024,8:50 AM,01/24/2024,10:05 AM,1:15,1.25,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Supernova Loreal,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/23/2024,5:40 PM,01/23/2024,6:03 PM,0:23,0.38,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Local dealers,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/23/2024,5:12 PM,01/23/2024,5:40 PM,0:28,0.47,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Supernova Loreal,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/23/2024,5:05 PM,01/23/2024,5:12 PM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics - PDM,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/23/2024,4:31 PM,01/23/2024,5:06 PM,0:35,0.58,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/23/2024,4:11 PM,01/23/2024,4:31 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/23/2024,3:27 PM,01/23/2024,4:11 PM,0:44,0.73,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - Jason,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/23/2024,2:30 PM,01/23/2024,3:29 PM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - Supernova Loreal,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/23/2024,1:23 PM,01/23/2024,2:30 PM,1:07,1.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/23/2024,1:06 PM,01/23/2024,1:23 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops - all hands prep - profit share,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/23/2024,12:52 PM,01/23/2024,1:06 PM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/23/2024,12:01 PM,01/23/2024,12:52 PM,0:51,0.85,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/23/2024,11:13 AM,01/23/2024,12:01 PM,0:48,0.80,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/23/2024,10:47 AM,01/23/2024,11:04 AM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Millipore Sigma,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/23/2024,10:04 AM,01/23/2024,10:47 AM,0:43,0.72,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Content production,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/23/2024,7:54 AM,01/23/2024,10:05 AM,2:11,2.18,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/23/2024,7:37 AM,01/23/2024,7:54 AM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House - Board,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,01/22/2024,4:00 PM,01/22/2024,6:03 PM,2:03,2.05,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/22/2024,2:19 PM,01/22/2024,4:00 PM,1:41,1.68,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/22/2024,2:18 PM,01/22/2024,2:20 PM,0:02,0.03,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/22/2024,1:23 PM,01/22/2024,2:18 PM,0:55,0.92,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops - all hands prep,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/22/2024,1:07 PM,01/22/2024,1:24 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/22/2024,12:26 PM,01/22/2024,1:08 PM,0:42,0.70,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax2 - promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/22/2024,11:56 AM,01/22/2024,12:27 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/22/2024,11:17 AM,01/22/2024,11:56 AM,0:39,0.65,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/22/2024,11:17 AM,01/22/2024,11:18 AM,0:01,0.02,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],innovation - ChatGPT,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/22/2024,11:02 AM,01/22/2024,11:18 AM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/22/2024,10:49 AM,01/22/2024,11:02 AM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - ChatGPT screaming frog promotion,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/19/2024,5:48 PM,01/19/2024,5:49 PM,0:01,0.02,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Content production,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/19/2024,5:41 PM,01/19/2024,5:48 PM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/19/2024,5:09 PM,01/19/2024,5:42 PM,0:33,0.55,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax2 - promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/19/2024,4:52 PM,01/19/2024,5:09 PM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover - supernova,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/19/2024,4:00 PM,01/19/2024,4:52 PM,0:52,0.87,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/19/2024,3:08 PM,01/19/2024,4:00 PM,0:52,0.87,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax2 - content editing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/19/2024,2:30 PM,01/19/2024,3:09 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/19/2024,2:14 PM,01/19/2024,2:30 PM,0:16,0.27,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - Presentation,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/19/2024,12:49 PM,01/19/2024,2:14 PM,1:25,1.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/19/2024,11:05 AM,01/19/2024,12:49 PM,1:44,1.73,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/19/2024,10:30 AM,01/19/2024,11:06 AM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/19/2024,7:53 AM,01/19/2024,10:29 AM,2:36,2.60,0.00,0.00
+Seer Internal,Seer Interactive [1],skip levels,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/18/2024,3:55 PM,01/18/2024,6:45 PM,2:50,2.83,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/18/2024,2:19 PM,01/18/2024,3:56 PM,1:37,1.62,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/18/2024,12:26 PM,01/18/2024,2:12 PM,1:46,1.77,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/18/2024,12:25 PM,01/18/2024,12:26 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/18/2024,12:25 PM,01/18/2024,12:26 PM,0:01,0.02,0.00,0.00
+Seer Internal,Seer Interactive [1],wilr@seerinteractive.com,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/17/2024,4:22 PM,01/18/2024,12:25 PM,20:03,20.05,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/17/2024,3:30 PM,01/17/2024,4:21 PM,0:51,0.85,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],AI + Seer Mastermind,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/17/2024,3:00 PM,01/17/2024,3:30 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover - supernova,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/17/2024,11:13 AM,01/17/2024,4:19 PM,5:06,5.10,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/17/2024,8:40 AM,01/17/2024,11:13 AM,2:33,2.55,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/16/2024,4:36 PM,01/16/2024,4:39 PM,0:03,0.05,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/16/2024,4:24 PM,01/16/2024,4:36 PM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/16/2024,2:06 PM,01/16/2024,4:24 PM,2:18,2.30,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - Training,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Training,No,01/16/2024,12:37 PM,01/16/2024,2:00 PM,1:23,1.38,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Discover - supernova,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/16/2024,10:32 AM,01/16/2024,12:37 PM,2:05,2.08,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/14/2024,12:27 PM,01/14/2024,2:12 PM,1:45,1.75,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/14/2024,12:12 PM,01/14/2024,12:27 PM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/11/2024,8:47 PM,01/11/2024,9:30 PM,0:43,0.72,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/11/2024,7:26 PM,01/11/2024,8:03 PM,0:37,0.62,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - alex and dan,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/11/2024,1:15 PM,01/11/2024,3:45 PM,2:30,2.50,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/11/2024,9:01 AM,01/11/2024,11:00 AM,1:59,1.98,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],AI + Visuals,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/11/2024,8:30 AM,01/11/2024,8:53 AM,0:23,0.38,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/11/2024,8:10 AM,01/11/2024,8:24 AM,0:14,0.23,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/10/2024,6:44 PM,01/10/2024,7:28 PM,0:44,0.73,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/10/2024,6:14 PM,01/10/2024,6:45 PM,0:31,0.52,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - 2024 reddit -  promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/10/2024,5:32 PM,01/10/2024,5:45 PM,0:13,0.22,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - Amanda - teaching chatgpt,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/10/2024,4:54 PM,01/10/2024,5:32 PM,0:38,0.63,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/10/2024,4:00 PM,01/10/2024,4:56 PM,0:56,0.93,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - Teresa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/10/2024,3:30 PM,01/10/2024,4:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/10/2024,2:45 PM,01/10/2024,3:30 PM,0:45,0.75,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - 2024 reddit -  promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/10/2024,2:30 PM,01/10/2024,2:45 PM,0:15,0.25,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - reddit - content editing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/10/2024,1:23 PM,01/10/2024,2:30 PM,1:07,1.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - reddit - content ideation,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/10/2024,12:12 PM,01/10/2024,1:23 PM,1:11,1.18,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - presentation agency Tierney,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/10/2024,9:47 AM,01/10/2024,11:06 AM,1:19,1.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon - slide deck,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/10/2024,8:34 AM,01/10/2024,9:47 AM,1:13,1.22,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - misc,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/10/2024,8:25 AM,01/10/2024,8:34 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/10/2024,8:12 AM,01/10/2024,8:24 AM,0:12,0.20,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax - video,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/09/2024,6:03 PM,01/09/2024,6:13 PM,0:10,0.17,0.00,0.00
+Seer Internal,Seer Interactive [1],schedule,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/09/2024,5:04 PM,01/09/2024,6:03 PM,0:59,0.98,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/09/2024,4:26 PM,01/09/2024,4:58 PM,0:32,0.53,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],AI + Mastermind,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/09/2024,2:00 PM,01/09/2024,4:24 PM,2:24,2.40,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax - content editing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/09/2024,1:23 PM,01/09/2024,2:00 PM,0:37,0.62,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/09/2024,12:26 PM,01/09/2024,1:23 PM,0:57,0.95,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/09/2024,8:06 AM,01/09/2024,12:24 PM,4:18,4.30,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/09/2024,7:41 AM,01/09/2024,8:06 AM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - Erin,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/08/2024,4:00 PM,01/08/2024,5:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax - content ideation,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/08/2024,3:00 PM,01/08/2024,4:00 PM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/08/2024,2:21 PM,01/08/2024,3:00 PM,0:39,0.65,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - presentation,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/08/2024,1:10 PM,01/08/2024,2:21 PM,1:11,1.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Volunteer - Cov House,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Volunteer,No,01/08/2024,12:00 PM,01/08/2024,1:06 PM,1:06,1.10,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/08/2024,10:01 AM,01/08/2024,12:00 PM,1:59,1.98,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - reviewing,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/08/2024,9:50 AM,01/08/2024,10:01 AM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - steve grandizio,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/08/2024,9:15 AM,01/08/2024,9:51 AM,0:36,0.60,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - Pmax - content ideation,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/08/2024,8:15 AM,01/08/2024,9:15 AM,1:00,1.00,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/05/2024,12:00 PM,01/05/2024,3:00 PM,3:00,3.00,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - PDM - Rose N,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/05/2024,11:02 AM,01/05/2024,11:37 AM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/05/2024,10:43 AM,01/05/2024,11:02 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Levi,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/05/2024,10:06 AM,01/05/2024,10:39 AM,0:33,0.55,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],AI + Image,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/05/2024,9:57 AM,01/05/2024,10:06 AM,0:09,0.15,0.00,0.00
+Seer Internal,Seer Interactive [1],email,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/05/2024,9:49 AM,01/05/2024,9:57 AM,0:08,0.13,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - misc,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/05/2024,9:33 AM,01/05/2024,9:50 AM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/05/2024,9:10 AM,01/05/2024,9:32 AM,0:22,0.37,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/05/2024,8:28 AM,01/05/2024,9:10 AM,0:42,0.70,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Jeff,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/04/2024,5:30 PM,01/04/2024,7:30 PM,2:00,2.00,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Cara (Goldman),Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/04/2024,4:00 PM,01/04/2024,5:30 PM,1:30,1.50,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/04/2024,3:25 PM,01/04/2024,4:00 PM,0:35,0.58,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Social - Promotion - Increase showing,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/04/2024,3:14 PM,01/04/2024,3:25 PM,0:11,0.18,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/04/2024,2:00 PM,01/04/2024,3:16 PM,1:16,1.27,0.00,0.00
+Seer Internal,Seer Interactive [1],skip level - Alisa,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/04/2024,1:00 PM,01/04/2024,2:00 PM,1:00,1.00,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],Supernova - Innovation - Misc,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/04/2024,12:32 PM,01/04/2024,1:01 PM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - anniversary,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/04/2024,12:00 PM,01/04/2024,12:33 PM,0:33,0.55,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/04/2024,11:30 AM,01/04/2024,12:00 PM,0:30,0.50,0.00,0.00
+Seer Internal,Seer Interactive [1],networking - Ron wagner,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/04/2024,10:15 AM,01/04/2024,11:30 AM,1:15,1.25,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - Crystal,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/04/2024,8:45 AM,01/04/2024,10:30 AM,1:45,1.75,0.00,0.00
+Seer Internal,Seer Interactive [1],HR - recruiting - marketing,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Recruiting,No,01/03/2024,1:35 PM,01/03/2024,2:46 PM,1:11,1.18,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],AI adoption,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/03/2024,1:12 PM,01/03/2024,1:37 PM,0:25,0.42,0.00,0.00
+Seer Innovation [INNOV],Seer Interactive [1],AI adoption,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,INNOV - Tools & Tech,No,01/03/2024,12:45 PM,01/03/2024,1:11 PM,0:26,0.43,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/03/2024,12:20 PM,01/03/2024,12:27 PM,0:07,0.12,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/03/2024,11:56 AM,01/03/2024,12:21 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/03/2024,11:29 AM,01/03/2024,11:56 AM,0:27,0.45,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - 2024 KPIs -  analysis / hypotheses,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/03/2024,9:00 AM,01/03/2024,9:29 AM,0:29,0.48,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Salomon,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/02/2024,3:56 PM,01/03/2024,9:15 AM,17:19,17.32,0.00,0.00
+Seer Internal,Seer Interactive [1],BD - sales - metrics,Business Development,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,BD,No,01/02/2024,3:03 PM,01/02/2024,3:49 PM,0:46,0.77,0.00,0.00
+Seer Internal,Seer Interactive [1],Marketing - Blog - 2024 KPIs -  promotion,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Marketing,No,01/02/2024,12:44 PM,01/02/2024,3:04 PM,2:20,2.33,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Baptist,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/02/2024,12:19 PM,01/02/2024,12:44 PM,0:25,0.42,0.00,0.00
+Seer Internal,Seer Interactive [1],Partnering with CE - Levi,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,CE,No,01/02/2024,12:00 PM,01/02/2024,12:20 PM,0:20,0.33,0.00,0.00
+Seer Internal,Seer Interactive [1],1:1 - John,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,1:1,No,01/02/2024,11:05 AM,01/02/2024,11:57 AM,0:52,0.87,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/02/2024,10:48 AM,01/02/2024,11:05 AM,0:17,0.28,0.00,0.00
+Seer Internal,Seer Interactive [1],FYF - proud of,,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/02/2024,10:30 AM,01/02/2024,10:48 AM,0:18,0.30,0.00,0.00
+Seer Internal,Seer Interactive [1],Ops -,People Operations,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Financials,No,01/02/2024,10:12 AM,01/02/2024,10:31 AM,0:19,0.32,0.00,0.00
+Seer Internal,Seer Interactive [1],email - organization,Admin,Wil Reynolds,"Innovation, LT",wilr@seerinteractive.com,Communication,No,01/02/2024,9:54 AM,01/02/2024,10:13 AM,0:19,0.32,0.00,0.00
